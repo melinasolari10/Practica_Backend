@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_express",
+  "version": "1.0.0",
+  "description": "Trabajo práctico n7",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Melina Solari",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
